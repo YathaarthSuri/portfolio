@@ -32,7 +32,7 @@ const NavBar = () => {
       </nav>
       <nav className='flex justify-center items-center flex-wrap'>
         <motion.a
-          href='/'
+          href='https://twitter.com/Yat_the_Dev'
           target={'_blank'}
           whileHover={{ y: -2 }}
           whileTap={{ scale: 0.9 }}
@@ -41,7 +41,7 @@ const NavBar = () => {
           <TwitterIcon />
         </motion.a>
         <motion.a
-          href='/'
+          href='https://github.com/YathaarthSuri'
           target={'_blank'}
           whileHover={{ y: -2 }}
           whileTap={{ scale: 0.9 }}
@@ -50,7 +50,7 @@ const NavBar = () => {
           <GithubIcon />
         </motion.a>
         <motion.a
-          href='/'
+          href='https://www.linkedin.com/in/yathaarth-suri-783a22156/'
           target={'_blank'}
           whileHover={{ y: -2 }}
           whileTap={{ scale: 0.9 }}
